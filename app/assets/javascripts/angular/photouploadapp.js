@@ -1,6 +1,7 @@
 var photoUploadAppModule = angular.module('PhotoUploadApp',
   [ 'ngRoute',
-    'ngResource'
+    'ngResource',
+    'templates'
   ]);
 
 //Routes

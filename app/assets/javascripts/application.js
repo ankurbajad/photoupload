@@ -21,3 +21,4 @@
 //= require angular/upload_controller
 //= require angular/uploadService
 //= require angular/uploadDirective
+//= require_tree ../templates
